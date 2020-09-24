@@ -11,36 +11,17 @@ from datetime import datetime
 
 print('''
 
-                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                           
-IIIIIIIIIINNNNNNNN        NNNNNNNN   SSSSSSSSSSSSSSS TTTTTTTTTTTTTTTTTTTTTTT         AAA                                   SSSSSSSSSSSSSSS HHHHHHHHH     HHHHHHHHH               AAA               RRRRRRRRRRRRRRRRR   KKKKKKKKK    KKKKKKK
-I::::::::IN:::::::N       N::::::N SS:::::::::::::::ST:::::::::::::::::::::T        A:::A                                SS:::::::::::::::SH:::::::H     H:::::::H              A:::A              R::::::::::::::::R  K:::::::K    K:::::K
-I::::::::IN::::::::N      N::::::NS:::::SSSSSS::::::ST:::::::::::::::::::::T       A:::::A                              S:::::SSSSSS::::::SH:::::::H     H:::::::H             A:::::A             R::::::RRRRRR:::::R K:::::::K    K:::::K
-II::::::IIN:::::::::N     N::::::NS:::::S     SSSSSSST:::::TT:::::::TT:::::T      A:::::::A                             S:::::S     SSSSSSSHH::::::H     H::::::HH            A:::::::A            RR:::::R     R:::::RK:::::::K   K::::::K
-  I::::I  N::::::::::N    N::::::NS:::::S            TTTTTT  T:::::T  TTTTTT     A:::::::::A                            S:::::S              H:::::H     H:::::H             A:::::::::A             R::::R     R:::::RKK::::::K  K:::::KKK
-  I::::I  N:::::::::::N   N::::::NS:::::S                    T:::::T            A:::::A:::::A                           S:::::S              H:::::H     H:::::H            A:::::A:::::A            R::::R     R:::::R  K:::::K K:::::K   
-  I::::I  N:::::::N::::N  N::::::N S::::SSSS                 T:::::T           A:::::A A:::::A                           S::::SSSS           H::::::HHHHH::::::H           A:::::A A:::::A           R::::RRRRRR:::::R   K::::::K:::::K    
-  I::::I  N::::::N N::::N N::::::N  SS::::::SSSSS            T:::::T          A:::::A   A:::::A         ---------------   SS::::::SSSSS      H:::::::::::::::::H          A:::::A   A:::::A          R:::::::::::::RR    K:::::::::::K     
-  I::::I  N::::::N  N::::N:::::::N    SSS::::::::SS          T:::::T         A:::::A     A:::::A        -:::::::::::::-     SSS::::::::SS    H:::::::::::::::::H         A:::::A     A:::::A         R::::RRRRRR:::::R   K:::::::::::K     
-  I::::I  N::::::N   N:::::::::::N       SSSSSS::::S         T:::::T        A:::::AAAAAAAAA:::::A       ---------------        SSSSSS::::S   H::::::HHHHH::::::H        A:::::AAAAAAAAA:::::A        R::::R     R:::::R  K::::::K:::::K    
-  I::::I  N::::::N    N::::::::::N            S:::::S        T:::::T       A:::::::::::::::::::::A                                  S:::::S  H:::::H     H:::::H       A:::::::::::::::::::::A       R::::R     R:::::R  K:::::K K:::::K   
-  I::::I  N::::::N     N:::::::::N            S:::::S        T:::::T      A:::::AAAAAAAAAAAAA:::::A                                 S:::::S  H:::::H     H:::::H      A:::::AAAAAAAAAAAAA:::::A      R::::R     R:::::RKK::::::K  K:::::KKK
-II::::::IIN::::::N      N::::::::NSSSSSSS     S:::::S      TT:::::::TT   A:::::A             A:::::A                    SSSSSSS     S:::::SHH::::::H     H::::::HH   A:::::A             A:::::A   RR:::::R     R:::::RK:::::::K   K::::::K
-I::::::::IN::::::N       N:::::::NS::::::SSSSSS:::::S      T:::::::::T  A:::::A               A:::::A                   S::::::SSSSSS:::::SH:::::::H     H:::::::H  A:::::A               A:::::A  R::::::R     R:::::RK:::::::K    K:::::K
-I::::::::IN::::::N        N::::::NS:::::::::::::::SS       T:::::::::T A:::::A                 A:::::A                  S:::::::::::::::SS H:::::::H     H:::::::H A:::::A                 A:::::A R::::::R     R:::::RK:::::::K    K:::::K
-IIIIIIIIIINNNNNNNN         NNNNNNN SSSSSSSSSSSSSSS         TTTTTTTTTTTAAAAAAA                   AAAAAAA                  SSSSSSSSSSSSSSS   HHHHHHHHH     HHHHHHHHHAAAAAAA                   AAAAAAARRRRRRRR     RRRRRRRKKKKKKKKK    KKKKKKK
-                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                           
-                                                                           
 
-BANGLADESH
+╭━━╮╱╱╱╱╱╭╮╱╱╱╱╱╱╭━━━┳╮╱╱╱╱╱╱╭╮
+╰┫┣╯╱╱╱╱╭╯╰╮╱╱╱╱╱┃╭━╮┃┃╱╱╱╱╱╱┃┃
+╱┃┃╭━╮╭━┻╮╭╋━━╮╱╱┃╰━━┫╰━┳━━┳━┫┃╭╮
+╱┃┃┃╭╮┫━━┫┃┃╭╮┣━━╋━━╮┃╭╮┃╭╮┃╭┫╰╯╯
+╭┫┣┫┃┃┣━━┃╰┫╭╮┣━━┫╰━╯┃┃┃┃╭╮┃┃┃╭╮╮
+╰━━┻╯╰┻━━┻━┻╯╰╯╱╱╰━━━┻╯╰┻╯╰┻╯╰╯╰╯                                                                           
 
-WhatsApp :  toxicshark@protonmail.com
+BANGLADESH Anon Haxor
+
+Facebook :  www.facebook.com/HaxorToxicShark
 İnstagram : toxicshark@protonmail.com
 YouTube : toxicshark@protonmail.com
 
